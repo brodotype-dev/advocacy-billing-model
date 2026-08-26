@@ -322,7 +322,7 @@ export default function PrimaryCarePage() {
         </section>
 
         <p className="text-xs text-slate-400 text-center pb-4">
-          Advocacy Billing Model · Mervin · {new Date().getFullYear()}
+          Advocacy Billing Model · Mervin · {new Date().getFullYear()}<br />Made by <a href="https://brodyclemmer.com/" target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-slate-700 underline">Brody Clemmer</a>
         </p>
       </main>
     </div>

@@ -370,7 +370,7 @@ export default function FFSPage() {
 
         <p className="text-xs text-slate-400 text-center pb-4">
           Rates are 2025 CMS estimates. Rules marked ⚠️ are unconfirmed — validate with your MAC or billing counsel.
-          <br />Advocacy Billing Model · Mervin · {new Date().getFullYear()}
+          <br />Advocacy Billing Model · Mervin · {new Date().getFullYear()}<br />Made by <a href="https://brodyclemmer.com/" target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-slate-700 underline">Brody Clemmer</a>
         </p>
       </main>
     </div>
